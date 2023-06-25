@@ -20,7 +20,7 @@
   
 - 📝 I sometimes write articles on [Medium](https://medium.com/@aliya-fatima)
 
-- ⚡ Fun Goal **To become ambidextrous and land a backflip.**
+- ⚡ Fun Goal **To become coffee maker.**
 
 <hr>
 
