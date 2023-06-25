@@ -1,4 +1,4 @@
-<p align = "center"> <img src="./name.gif" alt="Hi, I'm Aliya Fatima"> </p>
+<p align = "center"> <img src="./1920x800_AdobeExpress.gif" alt="Hi, I'm Aliya Fatima"> </p>
 <!-- <hr>
 <h3 align="center">AI & DS Undergraduate. Always learning & exploring.</h3>
 <hr> -->
