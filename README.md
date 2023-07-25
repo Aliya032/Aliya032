@@ -3,7 +3,6 @@
 <h3 align="center">AI & DS Undergraduate. Always learning & exploring.</h3>
 <hr> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<p></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+and+Data+Science+Undergraduate.;Always%20learning%20new%20things.;&center=true&width=800&height=50"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
