@@ -23,7 +23,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="./handshake.gif" width ="80"></h3> 
 <p align="left">
 <a href="https://twitter.com/aliya_explores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aliya's Twitter Account" height="30" width="40" /></a>
 <a href="https://medium.com/@aliya-fatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliya-fatima" height="30" width="40" /></a>
